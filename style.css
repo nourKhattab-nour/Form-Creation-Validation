@@ -53,13 +53,6 @@ button:hover {
 #form-feedback {
     margin-top: 10px;
     padding: 10px;
-    color: #d8000c;
-    background-color: #ffbaba;
     border-radius: 4px;
     display: none;
-}
-
-#form-feedback.success {
-    color: #28a745;
-    background-color: #d4edda;
 }
